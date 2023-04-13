@@ -18,3 +18,5 @@ npm i -D eslint
 npx eslint --init > y > problems > javascript esm > none of these >yes > node > javascript > ues > npm
 
 VIn0LLkgpOCrGk85
+
+npm i envalid
